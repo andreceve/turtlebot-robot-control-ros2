@@ -1,0 +1,4 @@
+int32 laps
+float32 dist
+---
+bool success
